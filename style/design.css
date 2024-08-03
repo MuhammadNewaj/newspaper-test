@@ -1,0 +1,58 @@
+/* header */
+*{
+    margin: 0px;
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100%;
+}
+#papername{
+    text-align: center;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 67PX;
+    border-bottom: 2px solid black;
+}
+#headimage{
+    width: 100%;
+    margin-top: 1px;
+}
+/* ----------- */
+.maincontent{
+  display: inline-flex;
+}
+#raw1{
+    background-color: antiquewhite;
+    border-bottom: 2px solid black;
+    margin: 20px; 
+    width: 50%; 
+}
+#raw1>h3{
+    margin-top: 20px;
+    font-size: 60px;
+}
+#raw1>p{
+    text-align: justify;
+    margin-top: 20px;
+}
+#simg{
+    width: 100%;
+}
+.maincontent1{
+    display: inline-flex;
+}
+.maincontent1>img{
+    width: 50%;
+}
+#raw2{
+    background-color: antiquewhite;
+    border-bottom: 2px solid black;
+    margin: 20px;
+    width: 50%;
+}
+#raw3{
+    background-color: antiquewhite;
+    border-bottom: 2px solid black;
+    margin: 20px;
+    width: 50%;
+}
+
